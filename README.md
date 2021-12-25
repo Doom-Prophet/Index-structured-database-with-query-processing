@@ -1,6 +1,5 @@
 # CS225
 Index Structure Database with Query Processing — Python3 </br>
-(Now only Zips are available, direct data, texts and codes will be uploaded soon)
 
 Time: April 2020 - May 2020
 
