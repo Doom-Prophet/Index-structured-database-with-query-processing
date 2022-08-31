@@ -1,5 +1,5 @@
-# CS225
-Index Structure Database with Query Processing — Python3 </br>
+# Index Structure Database with Query Processing — Python3
+CS225 Final Project by Group 21, Zicheng Ma as leader </br>
 
 Time: April 2020 - May 2020
 
