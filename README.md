@@ -1,5 +1,5 @@
 # Index Structure Database with Query Processing
-CS225 Final Project by Group 21, Zicheng Ma as leader </br>
+CS225 Final Project by Group 21, Zicheng Ma as leader. </br>
 
 Time: April 2020 - May 2020
 
